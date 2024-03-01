@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character x="-500" icon="bfroblox" y="100" isGF="false" scale="1.5" flipX="true" isPlayer="true" antialiasing="false" sprite="bfroblox">
+	<anim x="-5" loop="false" y="0" fps="24" anim="idle" name="idle"/>
+	<anim x="-5" loop="false" y="0" fps="24" anim="up" name="singUP"/>
+	<anim x="-8" loop="false" y="3" fps="24" anim="left" name="singLEFT"/>
+	<anim x="-6" loop="false" y="-1" fps="24" anim="right" name="singRIGHT"/>
+	<anim x="5" loop="false" y="-24" fps="24" anim="down" name="singDOWN"/>
+	<anim x="-6" loop="false" y="-2" fps="24" anim="miss" name="singUPmiss"/>
+	<anim x="-6" loop="false" y="-2" fps="24" anim="miss" name="singLEFTmiss"/>
+	<anim x="-6" loop="false" y="-2" fps="24" anim="miss" name="singRIGHTmiss"/>
+	<anim x="-6" loop="false" y="-2" fps="24" anim="miss" name="singDOWNmiss"/>
+	<anim x="-18" loop="true" y="-1" fps="24" anim="sigh" name="sigh"/>
+</character>

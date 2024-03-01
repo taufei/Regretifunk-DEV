@@ -1,0 +1,1 @@
+function create() GameOverSubstate.script = "data/states/GameOverState.hx";

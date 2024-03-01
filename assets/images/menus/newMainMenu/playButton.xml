@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="playButton.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="playButtonHover0000" x="15" y="15" width="634" height="104"/>
+	<SubTexture name="playButtonIdle0000" x="15" y="134" width="634" height="104"/>
+</TextureAtlas>

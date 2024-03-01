@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rblxButton.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rblxButtonHover0000" x="15" y="15" width="109" height="109"/>
+	<SubTexture name="rblxButtonIdle0000" x="139" y="15" width="109" height="109"/>
+</TextureAtlas>
