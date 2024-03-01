@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 125,
+	"difficulties": [
+		"normal"
+	],
+	"needsVoices": true,
+	"parsedColor": -10700471,
+	"displayName": "Glorp n' Go",
+	"icon": "Icon",
+	"name": "glorp-n-go",
+	"color": "#5CB949"
+}
