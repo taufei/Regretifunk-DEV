@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="stage" folder="stages/infectedBG/">
+	<sprite name="carpet"               x="-600" y="-200"   sprite="Inside/Carpet"       scroll="0.9" />
+	<sprite name="floor"               x="-220" y="150"   sprite="Inside/Floor"       scroll="0.9" />
+	<girlfriend />
+	<dad />
+	<boyfriend />
+</stage>
