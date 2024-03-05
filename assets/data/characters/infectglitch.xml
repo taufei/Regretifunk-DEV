@@ -1,8 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<character x="0" camX="0" icon="bfroblox" camx="-300" y="100" isGF="false" scale="1.5" isPlayer="false" antialiasing="false" sprite="infectglitch">
-	<anim x="-5" loop="false" y="0" fps="24" anim="idle" name="idle"/>
-	<anim x="-5" loop="false" y="0" fps="24" anim="up" name="singUP"/>
-	<anim x="-8" loop="false" y="3" fps="24" anim="left" name="singLEFT"/>
-	<anim x="-6" loop="false" y="-1" fps="24" anim="right" name="singRIGHT"/>
-	<anim x="5" loop="false" y="-24" fps="24" anim="down" name="singDOWN"/>
-</character>

@@ -12,5 +12,9 @@ function beatHit(curBeat){
     switch(curBeat){
         case 224:
             FlxTween.tween(strumLines.members[0].characters[0], {x: FlxG.width},(Conductor.crochet / 1000) * 64);
+        case 324:
+            camZoomingInterval = 1;
+            camZoomingStrength += 0.6;
+            insert(members.indexOf(dad)-1,grid);
     }
 }
